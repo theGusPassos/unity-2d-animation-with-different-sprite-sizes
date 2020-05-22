@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 2a76523515124654583b9d7055aaafa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5019748443385317390
+    second: erika character_14
+  - first:
+      213: -3903114363562282824
+    second: erika character_15
+  - first:
+      213: 1228965094563654241
+    second: erika character_16
+  - first:
+      213: -6557573012391043128
+    second: erika character_17
+  - first:
+      213: 2860038018405426304
+    second: erika character_18
+  - first:
+      213: 3468912298442505939
+    second: erika character_19
+  - first:
+      213: -9155531457922337520
+    second: erika character_20
+  - first:
+      213: 3063839636497631222
+    second: erika character_21
+  - first:
+      213: -9007211488343840748
+    second: erika character_22
+  - first:
+      213: 4523349743404402856
+    second: erika character_23
+  - first:
+      213: -4999307685117439740
+    second: erika character_24
+  - first:
+      213: 1473807297319052256
+    second: erika character_25
+  - first:
+      213: -1785306346223606766
+    second: erika character_26
+  - first:
+      213: -4862747927875738780
+    second: erika character_27
+  - first:
+      213: -6104951850855190021
+    second: erika character_28
+  - first:
+      213: 7845456330805916220
+    second: erika character_29
+  - first:
+      213: -5009095070566659897
+    second: erika character_30
+  - first:
+      213: 2918054792196773174
+    second: erika character_31
+  - first:
+      213: -1583569894799230879
+    second: erika character_32
+  - first:
+      213: 5507681052611113650
+    second: erika character_33
+  - first:
+      213: -8400914646256919649
+    second: erika character_34
+  - first:
+      213: -7974297776295109005
+    second: erika character_35
+  - first:
+      213: 7287311674474611477
+    second: erika character_36
+  - first:
+      213: -7042541577821144220
+    second: erika character_37
+  - first:
+      213: 1192616061468251973
+    second: erika character_38
+  - first:
+      213: -7344952374072674933
+    second: erika character_39
+  - first:
+      213: 6894933412224030216
+    second: erika character_43
+  - first:
+      213: 3573276524094436550
+    second: erika character_44
+  - first:
+      213: -7513547525348065296
+    second: erika character_45
+  - first:
+      213: 8793182595761849493
+    second: erika character_46
+  - first:
+      213: 1217471235126435953
+    second: erika character_47
+  - first:
+      213: 6504674266251068391
+    second: erika character_48
+  - first:
+      213: -473092911918634536
+    second: erika character_49
+  - first:
+      213: -5300398709896231873
+    second: erika character_50
+  - first:
+      213: -1368338663264207208
+    second: erika character_51
+  - first:
+      213: -3137312001655258662
+    second: erika character_60
+  - first:
+      213: 7922481724158261258
+    second: erika character_62
+  - first:
+      213: -7299061220553314016
+    second: erika character_65
+  - first:
+      213: -3105660294246577440
+    second: erika character_66
+  - first:
+      213: -369623187219901250
+    second: erika character_67
+  - first:
+      213: 8367247545655418874
+    second: erika character_68
+  - first:
+      213: -4971372229707174442
+    second: erika character_69
+  - first:
+      213: -137354899511977468
+    second: erika character_70
+  - first:
+      213: 6044567921786100579
+    second: erika character_71
+  - first:
+      213: 6424983978712002213
+    second: erika character_72
+  - first:
+      213: -1882277394350485076
+    second: erika character_74
+  - first:
+      213: 3216535498264321737
+    second: erika character_75
+  - first:
+      213: -7008643178880941053
+    second: erika character_76
+  - first:
+      213: -4556744667614003929
+    second: erika character_77
+  - first:
+      213: 462568668508411441
+    second: erika character_78
+  - first:
+      213: -5145967530296615340
+    second: erika character_79
+  - first:
+      213: 2226720907156967523
+    second: erika character_80
+  - first:
+      213: 4873676494789356746
+    second: erika character_81
+  - first:
+      213: -9209184001986392384
+    second: erika character_82
+  - first:
+      213: -5274823095381082259
+    second: erika character_83
+  - first:
+      213: -14931665016881041
+    second: erika character_86
+  - first:
+      213: -6981913906000404840
+    second: erika character_87
+  - first:
+      213: 1741681193313547641
+    second: erika character_88
+  - first:
+      213: -3440075874130291427
+    second: erika character_89
+  - first:
+      213: -6431324197129863129
+    second: erika character_90
+  - first:
+      213: 5583988780199877839
+    second: erika character_91
+  - first:
+      213: 2159139807512564752
+    second: erika character_92
+  - first:
+      213: 4666350985308315162
+    second: erika character_93
+  - first:
+      213: 4849117217706923452
+    second: erika character_94
+  - first:
+      213: -872301909838008593
+    second: erika character_95
+  - first:
+      213: 3126884854481220699
+    second: erika character_96
+  - first:
+      213: -7408546012284468223
+    second: erika character_97
+  - first:
+      213: 6568442063869061520
+    second: erika character_98
+  - first:
+      213: 5456057574016727165
+    second: erika character_99
+  - first:
+      213: -6349778353227729364
+    second: erika character_100
+  - first:
+      213: -5983414804180373557
+    second: erika character_101
+  - first:
+      213: 5995156815326922732
+    second: erika character_102
+  - first:
+      213: -8294480378761516500
+    second: erika character_103
+  - first:
+      213: -6551171233502972960
+    second: erika character_104
+  - first:
+      213: -3662031058325740384
+    second: erika character_105
+  - first:
+      213: -3541089862433016138
+    second: erika character_107
+  - first:
+      213: -7810763901315482866
+    second: erika character_114
+  - first:
+      213: -419289885058614300
+    second: erika character_115
+  - first:
+      213: 6057431100258152972
+    second: erika character_116
+  - first:
+      213: 6539840635867856615
+    second: erika character_117
+  - first:
+      213: -7322304769062474978
+    second: erika character_118
+  - first:
+      213: -7990389930896450907
+    second: erika character_119
+  - first:
+      213: 494435581996072352
+    second: erika character_120
+  - first:
+      213: -7699361324988432461
+    second: erika character_121
+  - first:
+      213: 4131411834590612498
+    second: erika character_122
+  - first:
+      213: -1426886523030400237
+    second: erika character_123
+  - first:
+      213: -8179503217844241081
+    second: erika character_130
+  - first:
+      213: 4136468156617249007
+    second: erika character_132
+  - first:
+      213: 5631414115113237116
+    second: erika character_133
+  - first:
+      213: -1868727264562290170
+    second: erika character_134
+  - first:
+      213: -3049198403701664234
+    second: erika character_135
+  - first:
+      213: 2025869404674166708
+    second: erika character_146
+  - first:
+      213: 7909561775617731336
+    second: erika character_147
+  - first:
+      213: -5803409940329854595
+    second: erika character_148
+  - first:
+      213: 321896018927856219
+    second: erika character_149
+  - first:
+      213: 1763773926316670005
+    second: erika character_151
+  - first:
+      213: 7953202378774513106
+    second: erika character_157
+  - first:
+      213: -4633419196518975632
+    second: erika character_160
+  - first:
+      213: -6991341183406696350
+    second: erika character_161
+  - first:
+      213: 4017681133440785260
+    second: erika character_164
+  - first:
+      213: -7001143940772336231
+    second: erika character_165
+  - first:
+      213: -344564144100778803
+    second: erika character_166
+  - first:
+      213: 5738424384173327869
+    second: erika character_167
+  - first:
+      213: 7715728290045970413
+    second: erika character_168
+  - first:
+      213: -1254000918250139880
+    second: erika character_169
+  - first:
+      213: 6403188420802342157
+    second: erika character_170
+  - first:
+      213: 7642003325424867239
+    second: erika character_171
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erika character_132
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 41
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47476047, y: 0.5520998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad10bf3a1c34114eb8f39b47fd7e7f6
+      internalID: 4136468156617249007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_133
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 65
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.40345064, y: 0.55194545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd0dcccef9f584594d054726bf6f67
+      internalID: 5631414115113237116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_134
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 65
+        width: 41
+        height: 52
+      alignment: 9
+      pivot: {x: 0.35384053, y: 0.55275416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c758169fa686d4abbdee9199eebf73
+      internalID: -1868727264562290170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_146
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5334746, y: 0.6693186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff66444a57dd4140bb9454e9e96185c
+      internalID: 2025869404674166708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_147
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51329666, y: 0.66770613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e1dd213d7de94c8a81807b61b605c
+      internalID: 7909561775617731336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_148
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.40371385, y: 0.6533999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44864dd6d1954514cb58a493d02da5e1
+      internalID: -5803409940329854595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_149
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 60
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51590294, y: 0.6691059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ccb1f20e93004f820008deeaedaa1
+      internalID: 321896018927856219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
