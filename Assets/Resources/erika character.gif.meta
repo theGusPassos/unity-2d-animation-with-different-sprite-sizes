@@ -323,6 +323,9 @@ TextureImporter:
   - first:
       213: 7642003325424867239
     second: erika character_171
+  - first:
+      213: -6427835765789197619
+    second: erika character_112
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -407,6 +410,594 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: erika character_74
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.53538, y: 0.68407065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1ccacc7e7871439b60dacaa486bd4
+      internalID: -1882277394350485076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 368
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.535126, y: 0.64147884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ea13fc0b19ac4781b08c10ccd30cc
+      internalID: 3216535498264321737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 367
+        width: 30
+        height: 57
+      alignment: 9
+      pivot: {x: 0.61726, y: 0.51414305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796dcee7ebc6ef445ae777f2301a6ab3
+      internalID: -7008643178880941053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_77
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 367
+        width: 30
+        height: 57
+      alignment: 9
+      pivot: {x: 0.614301, y: 0.5176927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e685a7c88787e94dbdf27a635b19427
+      internalID: -4556744667614003929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_78
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.614301, y: 0.66961807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb18ead6912111d4a883fdcc8fdb329b
+      internalID: 462568668508411441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 367
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53709465, y: 0.66961807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08afa3a88c98c3244a73fcef7da2ed4b
+      internalID: -5145967530296615340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_80
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 367
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.51680756, y: 0.66808945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b75be7999e45f54eaa347dc4ba4f7e4
+      internalID: 2226720907156967523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 367
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.51680756, y: 0.66961807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f472a98b55a2aa4793e5dbdaa1a2728
+      internalID: 4873676494789356746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 367
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.59669274, y: 0.68666893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef27ed08f519f5469a8956e94fd734e
+      internalID: -9209184001986392384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_83
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 367
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.61349595, y: 0.69175684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed70959ae5faa24083981a1d7c39124
+      internalID: -5274823095381082259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 367
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5976484, y: 0.804464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdad57fb92e838e41875e924590771a8
+      internalID: -14931665016881041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 316
+        width: 62
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7494397, y: 0.9390361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d919eea2f3c95e44a8be0a3061874ab
+      internalID: -6981913906000404840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 312
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.76020706, y: 1.0959619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598d63fa5c97e04b9b499061dbe68cc
+      internalID: 1741681193313547641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 312
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.760705, y: 1.0982462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b9d060800bfb4fb0b6b12c32a466a
+      internalID: -3440075874130291427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 312
+        width: 55
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7172189, y: 1.0388358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43b36cb4bd298a42881d731073a2cf4
+      internalID: -6431324197129863129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 312
+        width: 54
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7131562, y: 1.0130763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5841d884d586246b9dac12af892775
+      internalID: 5583988780199877839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 313
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6287215, y: 0.70732045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933095b33f61a646866ea8604788e06
+      internalID: 2159139807512564752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_93
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 313
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.52633774, y: 0.64161485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375e384d11bf7e499b513a4ff12aebc
+      internalID: 4666350985308315162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 313
+        width: 24
+        height: 51
+      alignment: 9
+      pivot: {x: 0.60931903, y: 0.567901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878fbbbf5e4d35141851b652f7c4f371
+      internalID: 4849117217706923452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_96
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 254
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.43348524, y: 0.6011682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f03c7ef00697d4a8be6ae2e0112ef8
+      internalID: 3126884854481220699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 254
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4906698, y: 0.6751286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef469e341d639e9448660d0e2b99be18
+      internalID: -7408546012284468223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 254
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4744723, y: 0.70461965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b9af6bdda97d4987cc623e154e1d3
+      internalID: 6568442063869061520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_99
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 254
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4846611, y: 0.70659167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a775e05881b6b6459ff1cd0e6e55d82
+      internalID: 5456057574016727165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_100
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 254
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5216321, y: 0.68599117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e425aa66805d85b4faa0cd88df7aff55
+      internalID: -6349778353227729364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_101
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 254
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5216326, y: 0.6686297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06286d26a64ba4781cb628f51560c9
+      internalID: -5983414804180373557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_102
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 253
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5195552, y: 0.66851526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75aeb65b9c01f84b94251da3a50bb7b
+      internalID: 5995156815326922732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_103
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 253
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5302997, y: 0.67065984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70398f145a968e4aa6993d45883c37c
+      internalID: -8294480378761516500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 253
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5358087, y: 0.6857754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ffba29e72e1354bae8b7f9110894c3
+      internalID: -6551171233502972960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: erika character_132
       rect:
         serializedVersion: 2
@@ -415,13 +1006,13 @@ TextureImporter:
         width: 41
         height: 52
       alignment: 9
-      pivot: {x: 0.47476047, y: 0.5520998}
+      pivot: {x: 0.47497466, y: 0.5662412}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aad10bf3a1c34114eb8f39b47fd7e7f6
+      spriteID: c8d2b7d35a0d03c4da0368b9be5aa2bc
       internalID: 4136468156617249007
       vertices: []
       indices: 
@@ -436,13 +1027,13 @@ TextureImporter:
         width: 48
         height: 52
       alignment: 9
-      pivot: {x: 0.40345064, y: 0.55194545}
+      pivot: {x: 0.40991688, y: 0.5662412}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46dd0dcccef9f584594d054726bf6f67
+      spriteID: 8acb44781d7a7de4b98013b5c548aab9
       internalID: 5631414115113237116
       vertices: []
       indices: 
@@ -457,13 +1048,13 @@ TextureImporter:
         width: 41
         height: 52
       alignment: 9
-      pivot: {x: 0.35384053, y: 0.55275416}
+      pivot: {x: 0.3552112, y: 0.5662412}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6c758169fa686d4abbdee9199eebf73
+      spriteID: 57d5293ffb0c28b4d82fb58f11134cfb
       internalID: -1868727264562290170
       vertices: []
       indices: 
@@ -478,13 +1069,13 @@ TextureImporter:
         width: 29
         height: 43
       alignment: 9
-      pivot: {x: 0.5334746, y: 0.6693186}
+      pivot: {x: 0.5353803, y: 0.6840719}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ff66444a57dd4140bb9454e9e96185c
+      spriteID: f48752f3ae1a6cd42baeaadd6df9fc3f
       internalID: 2025869404674166708
       vertices: []
       indices: 
@@ -499,13 +1090,13 @@ TextureImporter:
         width: 28
         height: 43
       alignment: 9
-      pivot: {x: 0.51329666, y: 0.66770613}
+      pivot: {x: 0.520939, y: 0.6874807}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f50e1dd213d7de94c8a81807b61b605c
+      spriteID: ac4423aeddb4fb64884aa95e1b8d2206
       internalID: 7909561775617731336
       vertices: []
       indices: 
@@ -520,13 +1111,13 @@ TextureImporter:
         width: 48
         height: 44
       alignment: 9
-      pivot: {x: 0.40371385, y: 0.6533999}
+      pivot: {x: 0.40686288, y: 0.66822886}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44864dd6d1954514cb58a493d02da5e1
+      spriteID: 7406ba49c090b324583c649d31690704
       internalID: -5803409940329854595
       vertices: []
       indices: 
@@ -541,14 +1132,98 @@ TextureImporter:
         width: 28
         height: 43
       alignment: 9
-      pivot: {x: 0.51590294, y: 0.6691059}
+      pivot: {x: 0.52093834, y: 0.6840719}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 905ccb1f20e93004f820008deeaedaa1
+      spriteID: 7d487c5fedfd6014d85252c142776068
       internalID: 321896018927856219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_168
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f4f7111b6790f45a26b5f2deaaf164
+      internalID: 7715728290045970413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_169
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810336cde0ef75448aed8569903124b
+      internalID: -1254000918250139880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_170
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b1904df4f9a4478de8b181ad6a18a
+      internalID: 6403188420802342157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_171
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 9
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c3a47a1fb56549805b5c2c5cf1874
+      internalID: 7642003325424867239
       vertices: []
       indices: 
       edges: []
