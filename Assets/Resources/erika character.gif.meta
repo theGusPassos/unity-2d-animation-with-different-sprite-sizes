@@ -326,6 +326,9 @@ TextureImporter:
   - first:
       213: -6427835765789197619
     second: erika character_112
+  - first:
+      213: -5771303347588360991
+    second: erika character_0
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -1006,7 +1009,7 @@ TextureImporter:
         width: 41
         height: 52
       alignment: 9
-      pivot: {x: 0.47497466, y: 0.5662412}
+      pivot: {x: 0.47497466, y: 0.5645319}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1090,7 +1093,7 @@ TextureImporter:
         width: 28
         height: 43
       alignment: 9
-      pivot: {x: 0.520939, y: 0.6874807}
+      pivot: {x: 0.51678497, y: 0.68612796}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1224,6 +1227,27 @@ TextureImporter:
       bones: []
       spriteID: 098c3a47a1fb56549805b5c2c5cf1874
       internalID: 7642003325424867239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erika character_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 560
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cebe072cc91f434d912aedb439f93b1
+      internalID: -5771303347588360991
       vertices: []
       indices: 
       edges: []
